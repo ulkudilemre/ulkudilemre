@@ -50,10 +50,11 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=idoseretkisi&cover_image=true&theme=novatorem&bar_color=ff4929&bar_color_cover=false" /></div>  
 
 ## Github Stats
+<div style="float: left;">
+ <img src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true" align="left" />  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact" align="left" />  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ulkudilemre&&style=flat-square)  
+ ![Profile views counter](https://komarev.com/ghpvc/?username=ulkudilemre&&style=flat-square)
+ </div>
 
