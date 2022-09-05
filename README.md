@@ -51,10 +51,11 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ## Github Stats
 <div style="float: left;">
- <img src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true" align="left" />  
+ <img src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" />  
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact" align="left" />  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact&theme=onedark" align="left" />  
 
  ![Profile views counter](https://komarev.com/ghpvc/?username=ulkudilemre&&style=flat-square)
- </div>
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ulkudilemre)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
