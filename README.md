@@ -39,23 +39,18 @@
   </a>  
 </div>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=idoseretkisi&cover_image=true&theme=novatorem&bar_color=ff4929&bar_color_cover=false" /></div>  
 
 ## Github Stats
-<div style="float: left;">
- <img src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" />  
+<div align="center">
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ulkudilemre&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" />  
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact&theme=onedark" align="left" />  
-
- ![Profile views counter](https://komarev.com/ghpvc/?username=ulkudilemre&&style=flat-square)
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ulkudilemre)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulkudilemre&hide_border=true&layout=compact&theme=onedark" align="left" />  
+</br>
+</br>
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ulkudilemre" align="left" /> 
+ </br>
+ </br>
+ <img height="25em" align="center" src="https://komarev.com/ghpvc/?username=ulkudilemre&&style=flat-square" align="left" /> 
 </div>
 
