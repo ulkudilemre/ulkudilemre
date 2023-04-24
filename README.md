@@ -2,7 +2,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/041/224/276/original/diego-honorato-shinji-countdown-artstationportfolio-01-v001.gif?1631108718" align="center" style="width: 100%" />
 </div>    
 
-### <div align="center">I am Dilemre, I would like to develop myself in the field of artificial intelligence for 2 years.</div>  
+### <div align="center">I am Dilemre, I would like to develop myself in the field of artificial intelligence for 3 years.</div>  
 
 -  👩‍💻 I’m currently working on [my blog](https://ulkudilemre.github.io/)  
  
